@@ -67,23 +67,10 @@
     <div class="calculator">
     <h2>Calculadora</h2>
         <div class="mostrar">
-            <?php
-                    $cero = $_POST['0'];
-                    $uno = $_POST['1'];
-                    $dos = $_POST['2'];
-                    $tres = $_POST['3'];
-                    $cuatro = $_POST['4'];
-                    $cinco = $_POST['5'];
-                    $seis = $_POST['6'];
-                    $siete = $_POST['7'];
-                    $ocho = $_POST['8'];
-                    $nueve = $_POST['9'];
-
-                    echo $cero.$uno.$dos;
-            ?>
+            <?php?>
         </div>
         
-        <form action="app.php" method="post">
+        <form method="post">
             <input type="submit" name="number" value="7">
             <input type="submit" name="number" value="8">
             <input type="submit" name="number" value="9">
