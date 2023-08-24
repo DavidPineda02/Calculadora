@@ -130,7 +130,6 @@
             <div class="mostrar">
                 <?php?>
             </div>
-            
             <form method="post">
                 <input type="submit" name="number" value="7">
                 <input type="submit" name="number" value="8">
