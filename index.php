@@ -70,22 +70,38 @@
             <div class="mostrar">
                 <?php?>
             </div>
+
             <form method="post">
                 <input type="submit" name="number" value="7">
+                
                 <input type="submit" name="number" value="8">
+                
                 <input type="submit" name="number" value="9">
+                
                 <input type="submit" name="operator" value="/">
+                
                 <input type="submit" name="number" value="4">
+                
                 <input type="submit" name="number" value="5">
+                
                 <input type="submit" name="number" value="6">
+                
                 <input type="submit" name="operator" value="*">
+                
                 <input type="submit" name="number" value="1">
+                
                 <input type="submit" name="number" value="2">
+                
                 <input type="submit" name="number" value="3">
+                
                 <input type="submit" name="operator" value="-">
+                
                 <input type="submit" name="number" value="0">
+                
                 <input type="submit" name="decimal" value=".">
+                
                 <input type="submit" name="operator" value="=">
+                
                 <input type="submit" name="operator" value="+">
             </form>
         </div>
